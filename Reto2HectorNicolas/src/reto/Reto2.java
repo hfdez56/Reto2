@@ -20,8 +20,13 @@ public class Reto2 {
 				else if (eleccion==2) {
 					Funciones1.peso();
 					
+				} else if (eleccion==3) {
+					Funciones1.temperatura();
+					
+				} else if (eleccion==4) {
+					Funciones1.volumen();
 				}
-			} while (eleccion !=0) ;
+			} while (eleccion !=0);
 		}
 
 	}
