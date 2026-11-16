@@ -21,7 +21,7 @@ public class Reto2 {
 					Funciones1.peso();
 					
 				}
-			} while (eleccion !=0);
+			} while (eleccion !=0) ;
 		}
 
 	}
