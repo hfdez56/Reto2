@@ -2,7 +2,7 @@ package reto;
 
 public class Funciones {
 
-	public static void main(String[] args) {
+	public static int dimeEntero(int n1) {
 		// TODO Auto-generated method stub
 
 	}
