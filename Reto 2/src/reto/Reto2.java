@@ -1,4 +1,4 @@
-package reto2;
+package reto;
 
 public class Reto2 {
 
